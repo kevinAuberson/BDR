@@ -1,5 +1,5 @@
-# BDR 2023-2024
-Bases de données relationnelles
+# BDR
+Bases de données relationnelles 2023-2024
 | Labos | Notes |
 | ---- | ---- |
 | Labo 1 | 4.8 |
